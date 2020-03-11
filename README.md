@@ -1,6 +1,5 @@
 # Hello-world
 pruebas a parte
-
 Scanner sc = new Scanner(chiquitoDeLaCalzada.in);
 String integer;
 integer = "pan";
@@ -13,4 +12,3 @@ Mercadona m4 = new Mercadona("San Pedro del Pinatar",19);
 Mercadona m5 = new Mercadona("San Pedro del Pinatar",18);
 ....300 mercadonas despues...
 Aldi a1 = new Aldi(); // siempre hay uno en cada pueblo...
-
